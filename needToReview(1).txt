@@ -11,7 +11,7 @@
 5.原型
 	http://blog.csdn.net/pkgray/article/details/38615551
 
-6. Git
+6. Git---这个已经开始了
 -----------------------
 7. 支付
 8.vconsole
