@@ -1,0 +1,42 @@
+
+===================  需要复习  =======================
+1.屏幕尺寸相关的，client，available等等;屏幕高度的滚动
+2. 数组字符串的方法 
+	https://juejin.im/post/5a698534f265da3e3304860d
+----------------------
+3.angular 的核心功能 如$emit $on $boardcast $destoy 
+4.canvas svg  
+	https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial
+	http://www.runoob.com/svg/svg-tutorial.html
+5.原型
+	http://blog.csdn.net/pkgray/article/details/38615551
+
+6. Git
+-----------------------
+7. 支付
+8.vconsole
+9.setTimeout()/setInterval()
+10.正则表达式:
+	http://www.jb51.net/article/43190.htm
+11.HTML5新特性：
+	http://www.w3school.com.cn/html5/index.asp
+12.代码压缩工具
+13.canvas 进阶实例：
+	http://www.hangge.com/blog/cache/category_74_1.html
+14.动画
+15.捕获 冒泡
+16.deURLcode 等几个编码解码方法
+17.Date()对象
+18.三目运算
+19.js网页拖拽
+20.underscore.js文档  http://underscorejs.org/
+21.for in 循环
+
+
+===================  值得一看  =======================
+
+1.用Vue、Vuex、Immutable做俄罗斯方块
+		https://github.com/Binaryify/vue-tetris
+
+2.基于Vue2.0的知乎日报单页应用
+		https://github.com/walleeeee/daily-zhihu
